@@ -1,0 +1,3 @@
+
+def onGetCreateUser():
+    return 'User'
